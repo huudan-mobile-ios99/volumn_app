@@ -1,16 +1,13 @@
 # volumn_control
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Uploading Screenshot 2025-04-09 at 4.07.05 PM.png…]()
+<img width="1199" alt="Screenshot 2025-04-09 at 4 07 10 PM" src="https://github.com/user-attachments/assets/51266ebf-c24b-4199-a94b-9a04d6ebca9b" />
+<img width="1199" alt="Screenshot 2025-04-09 at 4 07 19 PM" src="https://github.com/user-attachments/assets/27074954-7fa8-46a2-aa2c-a32f7be0422b" />
+<img width="1199" alt="Screenshot 2025-04-09 at 4 07 22 PM" src="https://github.com/user-attachments/assets/286e27bb-e4c0-4a75-99a7-90ed5c8a351a" />
+<img width="1199" alt="Screenshot 2025-04-09 at 4 07 44 PM" src="https://github.com/user-attachments/assets/e86a998a-7328-4940-bbae-0935d3012164" />
+<img width="1199" alt="Screenshot 2025-04-09 at 4 07 51 PM" src="https://github.com/user-attachments/assets/93b2bda2-f40c-438a-9dcc-998ea289dcb5" />
+<img width="1199" alt="Screenshot 2025-04-09 at 4 08 08 PM" src="https://github.com/user-attachments/assets/372304be-3b51-4bfd-97f6-5064758bcdb3" />
+<img width="1250" alt="Screenshot 2025-04-09 at 4 08 20 PM" src="https://github.com/user-attachments/assets/f1343a75-fb17-442b-8399-e41d249bd886" />
+<img width="1250" alt="Screenshot 2025-04-09 at 4 08 22 PM" src="https://github.com/user-attachments/assets/d8d01024-6e64-4d89-9c50-f5f18cd764cd" />
+<img width="1250" alt="Screenshot 2025-04-09 at 4 08 25 PM" src="https://github.com/user-attachments/assets/dfbc453f-eb7c-460d-9657-96b40b7ff268" />
